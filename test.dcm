@@ -1,0 +1,487 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.01R_1%_5W
+D VISHAY - WSR5R0100FEA - RESISTOR, METAL STRIP, 0.01 OHM 1%
+F https://www.vishay.com/docs/31059/wsrhigh.pdf
+$ENDCMP
+#
+$CMP 0.5W_196KR_1%
+D Resistor 196K 1206
+F d
+$ENDCMP
+#
+$CMP 0R_0W_0%
+D Resistor 0R 0603
+F d
+$ENDCMP
+#
+$CMP 1.5KR_1/2W_5%
+D Resistor 1.5K-500mW±5% 1206
+F https://www.tme.eu/it/details/hp06-1k51%25/resistori-smd-1206/royal-ohm/hp06w2f1501t5e/
+$ENDCMP
+#
+$CMP 1.65KR_0,1W_1%
+D Resistor 1.65K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-1.65k-1%25/resistori-smd-0603/royal-ohm/0603saf1651t5e/
+$ENDCMP
+#
+$CMP 10.5KR_0,1W_1%
+D Resistor 10.5K-0,1W±1% 0603
+$ENDCMP
+#
+$CMP 10.7KR_0,1W_1%
+D Resistor 10.7K-0,1W±1% 0603
+F https://www.mouser.it/ProductDetail/Bourns/CR0805-FX-1072ELF/?qs=tknLyCMIRbPjNqdYvu1DsA%3D%3D
+$ENDCMP
+#
+$CMP 100R_0,1W_1%
+D Resistor 100R 0603
+F d
+$ENDCMP
+#
+$CMP 10KR_0,1W_1%
+D Resistor 10K 0603
+F d
+$ENDCMP
+#
+$CMP 10K_POTR_0,5W_10%
+D PotentiomeR_POT_Small_SINGLE_TURN_CERMET 10K RESISTENTE ACQUA “O” ring sealed and washableter
+K R_POT_Small_SINGLE_TURN_CERMET 10K RESISTENTE ACQUA “O” ring sealed and washable
+F https://www.mouser.it/datasheet/2/972/ct-6-1827535.pdf
+$ENDCMP
+#
+$CMP 10R_0,3W_1%
+D Resistor 10R-10R1%  0805
+F https://www.tme.eu/it/details/hp05-10r1%25/resistori-smd-0805/royal-ohm/hp05w3f100jt5e/
+$ENDCMP
+#
+$CMP 12.7R_0,1W_1%
+D Resistor 12.7K-0,1W±1% 0603
+$ENDCMP
+#
+$CMP 120R_0,1W_1%
+D Resistor 120R 0603
+F d
+$ENDCMP
+#
+$CMP 12KR_0,1W_1%
+D Resistor 12K-0,1W±1% 0603
+F https://www.mouser.it/ProductDetail/Bourns/CR0805-FX-1072ELF/?qs=tknLyCMIRbPjNqdYvu1DsA%3D%3D
+$ENDCMP
+#
+$CMP 13.3KR_0,1W_1%
+D Resistor Resistor 13.3K-0,1W±1% 0603
+F https://www.tme.eu/it/details/cq0603-13k3-1%25/resistori-smd-0603/royal-ohm/cq03saf1332t5e/
+$ENDCMP
+#
+$CMP 133KR_0,1W_1%
+D Resistor 133K 0603
+F http://www.vishay.com/docs/28705/mcx0x0xpro.pdf
+$ENDCMP
+#
+$CMP 15KR_0,1W_0,5%
+D Resistor 15K-0,1W±0,5% 0603
+F https://www.tme.eu/it/details/arg0603-15k-0.5%25/resistori-di-precisione-smd-0603/viking/arg03dtc1502/
+$ENDCMP
+#
+$CMP 15MR_0,25W_5%
+D Resistor 15MΩ-250mW±5% 1206
+F https://www.mouser.it/ProductDetail/KOA-Speer/RK73B2BTTD156J/?qs=vpeetiVAALdV4x72DkFOYw%3D%3D
+$ENDCMP
+#
+$CMP 165KR_0,1W_1%
+D Resistor 165K-0,1W±1% 0603
+F https://www.tme.eu/it/details/0603saf1653t5e/resistori-smd-0603/royal-ohm/
+$ENDCMP
+#
+$CMP 196R_0.1W_1%
+D Resistor 196R 0603
+F d
+$ENDCMP
+#
+$CMP 1KR_0.1W_1%
+D Resitor 1K 0603
+F d
+$ENDCMP
+#
+$CMP 1MR_0.250W_1%
+D Resistor 1MΩ-250mW±1% 1206
+F https://www.tme.eu/it/details/1206s4f1004t5e/resistori-smd-1206/royal-ohm/
+$ENDCMP
+#
+$CMP 2.1KR_0.1W_1%
+D Resistor 2.1K 0603
+F d
+$ENDCMP
+#
+$CMP 2.2MR_0.250W_5%
+D Resistor 2.2MΩ-250mW±1% 1206
+F https://www.tme.eu/it/details/smd1206-2m2/resistori-smd-1206/royal-ohm/1206s4j0225t5e/
+$ENDCMP
+#
+$CMP 2.2R_0.250W_1%
+D Resistor 2.2R-250mW±1% 1206
+F https://www.tme.eu/it/details/crcw12062r20fktabc/resistori-smd-1206/vishay/
+$ENDCMP
+#
+$CMP 2.2R_1%_0.25W
+D thick film; SMD; 1206; 2.2Ω; 0,25W; ±1%; -55÷155°C
+F https://www.tme.eu/it/details/rc1206jr-072r2/resistori-smd-1206/yageo/rc1206jr-072r2l/
+$ENDCMP
+#
+$CMP 2.32KR_0.1W_1%
+D Resistor 2.32K 0603
+F d
+$ENDCMP
+#
+$CMP 2.49KR_0.1W_1%
+D  2,49kΩ; 0,1W; ±1%; -55÷155°C  0603
+F https://www.tme.eu/it/details/crcw06032k49fktabc/resistori-smd-0603/vishay/
+$ENDCMP
+#
+$CMP 20KR_0.1W_1%
+D Resistor 20K 0603
+F d
+$ENDCMP
+#
+$CMP 240KR_0.1W_1%
+D Resistor 240K-0,1W±1% 0603
+$ENDCMP
+#
+$CMP 249KR_0.25W_1%
+D Resistor 249K  250mW; ±1% 1206
+F d
+$ENDCMP
+#
+$CMP 27KR_0.1W_1%
+D Resistor 27K 0603
+F d
+$ENDCMP
+#
+$CMP 27R_0.1W_1%
+D Resistor 27R 0603
+F https://www.tme.eu/it/details/0603saf270jt5e/resistori-smd-0603/royal-ohm/
+$ENDCMP
+#
+$CMP 2KR_0.1W_1%
+D Resistor 2K 0603
+F d
+$ENDCMP
+#
+$CMP 2R_1%_0.25W
+D thick film; SMD; 1206; 2Ω; 0,25W; ±1%; -55÷155°C
+F https://www.tme.eu/it/details/rc1206fr-072rl/resistori-smd-1206/yageo/
+$ENDCMP
+#
+$CMP 3.65KR_0.1W_1%
+D Resistor 3.65K-0,1W±1% 0603
+F https://www.mouser.it/ProductDetail/Vishay-Dale/CRCW06033K65FKEA/?qs=m78yHlr47QBBhPoSNA6U%252BA%3D%3D
+$ENDCMP
+#
+$CMP 330R_0.1W_1%
+D Resistor 330r 0603
+F d
+$ENDCMP
+#
+$CMP 4.7KR_0.1W_1%
+D Resistor 4.7K 0603
+F d
+$ENDCMP
+#
+$CMP 4.87KR_0.1W_1%
+D Resistor 4.87K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-4.87k-1%25/resistori-smd-0603/royal-ohm/0603saf4871t5e/
+$ENDCMP
+#
+$CMP 449R_0.1W_0.1%
+D Resistor 499R-0,1W±0,1% 0603
+F https://www.tme.eu/it/details/ar0603-499r-0.1%25/resistori-di-precisione-smd-0603/viking/ar03btcx4990/
+$ENDCMP
+#
+$CMP 470R_0.1W_1%
+D Resistor 470R-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-470r-1%25/resistori-smd-0603/royal-ohm/0603saf4700t5e/
+$ENDCMP
+#
+$CMP 47R_0.3W_1%
+D Resistor 47R-47R1%  0805
+F https://www.tme.eu/it/details/hp05-47r1%25/resistori-smd-0805/royal-ohm/hp05w3f470jt5e/
+$ENDCMP
+#
+$CMP 51R_0.5W_5%
+D Resistor 51R-500mW±5% 1206
+F https://www.tme.eu/it/details/hp06-51r5%25/resistori-smd-1206/royal-ohm/hp06w2j0510t5e/
+$ENDCMP
+#
+$CMP 59KR_0.1W_1%
+D Resistor 59K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-59k-1%25/resistori-smd-0603/royal-ohm/0603saf5902t5e/
+$ENDCMP
+#
+$CMP 68KR_0.25W_1%
+D Resistor 68KΩ-250mW±1% 1206
+F https://www.tme.eu/it/details/hp06-68k1%25/resistori-smd-1206/royal-ohm/hp06w2f6802t5e/
+$ENDCMP
+#
+$CMP 7.5KR_0.1W_1%
+D Resistor 7.5K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-7k5-1%25/resistori-smd-0603/royal-ohm/0603saf7501t5e/
+$ENDCMP
+#
+$CMP 820R_0.5W_1%
+D Resistor 820R-500mW±5% 1210
+F https://www.mouser.it/ProductDetail/Yageo/RC1210FR-07820RL/?qs=sGAEpiMZZMtlubZbdhIBIEF9uIRuu14JuBsGFNE2t4s%3D
+$ENDCMP
+#
+$CMP codice1
+D Resistor 0R 0603
+K p1 p2 p3 p4 p5
+F d1
+$ENDCMP
+#
+$CMP codice2
+D Resistor 0R 0603
+F d
+$ENDCMP
+#
+$CMP codice3
+D Resistor 0R 0603
+F d
+$ENDCMP
+#
+#End Doc Library
+#
+$CMP 0.01R_1%_5W
+D VISHAY - WSR5R0100FEA - RESISTOR, METAL STRIP, 0.01 OHM 1%
+F https://www.vishay.com/docs/31059/wsrhigh.pdf
+$ENDCMP
+#
+$CMP 0.5W_196KR_1%
+D Resistor 196K 1206
+F d
+$ENDCMP
+#
+$CMP 0R_0W_0%
+D Resistor 0R 0603
+F d
+$ENDCMP
+#
+$CMP 1.5KR_1/2W_5%
+D Resistor 1.5K-500mW±5% 1206
+F https://www.tme.eu/it/details/hp06-1k51%25/resistori-smd-1206/royal-ohm/hp06w2f1501t5e/
+$ENDCMP
+#
+$CMP 1.65KR_0,1W_1%
+D Resistor 1.65K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-1.65k-1%25/resistori-smd-0603/royal-ohm/0603saf1651t5e/
+$ENDCMP
+#
+$CMP 10.5KR_0,1W_1%
+D Resistor 10.5K-0,1W±1% 0603
+$ENDCMP
+#
+$CMP 10.7KR_0,1W_1%
+D Resistor 10.7K-0,1W±1% 0603
+F https://www.mouser.it/ProductDetail/Bourns/CR0805-FX-1072ELF/?qs=tknLyCMIRbPjNqdYvu1DsA%3D%3D
+$ENDCMP
+#
+$CMP 100R_0,1W_1%
+D Resistor 100R 0603
+F d
+$ENDCMP
+#
+$CMP 10KR_0,1W_1%
+D Resistor 10K 0603
+F d
+$ENDCMP
+#
+$CMP 10K_POTR_0,5W_10%
+D PotentiomeR_POT_Small_SINGLE_TURN_CERMET 10K RESISTENTE ACQUA “O” ring sealed and washableter
+K R_POT_Small_SINGLE_TURN_CERMET 10K RESISTENTE ACQUA “O” ring sealed and washable
+F https://www.mouser.it/datasheet/2/972/ct-6-1827535.pdf
+$ENDCMP
+#
+$CMP 10R_0,3W_1%
+D Resistor 10R-10R1%  0805
+F https://www.tme.eu/it/details/hp05-10r1%25/resistori-smd-0805/royal-ohm/hp05w3f100jt5e/
+$ENDCMP
+#
+$CMP 12.7R_0,1W_1%
+D Resistor 12.7K-0,1W±1% 0603
+$ENDCMP
+#
+$CMP 120R_0,1W_1%
+D Resistor 120R 0603
+F d
+$ENDCMP
+#
+$CMP 12KR_0,1W_1%
+D Resistor 12K-0,1W±1% 0603
+F https://www.mouser.it/ProductDetail/Bourns/CR0805-FX-1072ELF/?qs=tknLyCMIRbPjNqdYvu1DsA%3D%3D
+$ENDCMP
+#
+$CMP 13.3KR_0,1W_1%
+D Resistor Resistor 13.3K-0,1W±1% 0603
+F https://www.tme.eu/it/details/cq0603-13k3-1%25/resistori-smd-0603/royal-ohm/cq03saf1332t5e/
+$ENDCMP
+#
+$CMP 133KR_0,1W_1%
+D Resistor 133K 0603
+F http://www.vishay.com/docs/28705/mcx0x0xpro.pdf
+$ENDCMP
+#
+$CMP 15KR_0,1W_0,5%
+D Resistor 15K-0,1W±0,5% 0603
+F https://www.tme.eu/it/details/arg0603-15k-0.5%25/resistori-di-precisione-smd-0603/viking/arg03dtc1502/
+$ENDCMP
+#
+$CMP 15MR_0,25W_5%
+D Resistor 15MΩ-250mW±5% 1206
+F https://www.mouser.it/ProductDetail/KOA-Speer/RK73B2BTTD156J/?qs=vpeetiVAALdV4x72DkFOYw%3D%3D
+$ENDCMP
+#
+$CMP 165KR_0,1W_1%
+D Resistor 165K-0,1W±1% 0603
+F https://www.tme.eu/it/details/0603saf1653t5e/resistori-smd-0603/royal-ohm/
+$ENDCMP
+#
+$CMP 196R_0.1W_1%
+D Resistor 196R 0603
+F d
+$ENDCMP
+#
+$CMP 1KR_0.1W_1%
+D Resitor 1K 0603
+F d
+$ENDCMP
+#
+$CMP 1MR_0.250W_1%
+D Resistor 1MΩ-250mW±1% 1206
+F https://www.tme.eu/it/details/1206s4f1004t5e/resistori-smd-1206/royal-ohm/
+$ENDCMP
+#
+$CMP 2.1KR_0.1W_1%
+D Resistor 2.1K 0603
+F d
+$ENDCMP
+#
+$CMP 2.2MR_0.250W_5%
+D Resistor 2.2MΩ-250mW±1% 1206
+F https://www.tme.eu/it/details/smd1206-2m2/resistori-smd-1206/royal-ohm/1206s4j0225t5e/
+$ENDCMP
+#
+$CMP 2.2R_0.250W_1%
+D Resistor 2.2R-250mW±1% 1206
+F https://www.tme.eu/it/details/crcw12062r20fktabc/resistori-smd-1206/vishay/
+$ENDCMP
+#
+$CMP 2.2R_1%_0.25W
+D thick film; SMD; 1206; 2.2Ω; 0,25W; ±1%; -55÷155°C
+F https://www.tme.eu/it/details/rc1206jr-072r2/resistori-smd-1206/yageo/rc1206jr-072r2l/
+$ENDCMP
+#
+$CMP 2.32KR_0.1W_1%
+D Resistor 2.32K 0603
+F d
+$ENDCMP
+#
+$CMP 2.49KR_0.1W_1%
+D  2,49kΩ; 0,1W; ±1%; -55÷155°C  0603
+F https://www.tme.eu/it/details/crcw06032k49fktabc/resistori-smd-0603/vishay/
+$ENDCMP
+#
+$CMP 20KR_0.1W_1%
+D Resistor 20K 0603
+F d
+$ENDCMP
+#
+$CMP 240KR_0.1W_1%
+D Resistor 240K-0,1W±1% 0603
+$ENDCMP
+#
+$CMP 249KR_0.25W_1%
+D Resistor 249K  250mW; ±1% 1206
+F d
+$ENDCMP
+#
+$CMP 27KR_0.1W_1%
+D Resistor 27K 0603
+F d
+$ENDCMP
+#
+$CMP 27R_0.1W_1%
+D Resistor 27R 0603
+F https://www.tme.eu/it/details/0603saf270jt5e/resistori-smd-0603/royal-ohm/
+$ENDCMP
+#
+$CMP 2KR_0.1W_1%
+D Resistor 2K 0603
+F d
+$ENDCMP
+#
+$CMP 2R_1%_0.25W
+D thick film; SMD; 1206; 2Ω; 0,25W; ±1%; -55÷155°C
+F https://www.tme.eu/it/details/rc1206fr-072rl/resistori-smd-1206/yageo/
+$ENDCMP
+#
+$CMP 3.65KR_0.1W_1%
+D Resistor 3.65K-0,1W±1% 0603
+F https://www.mouser.it/ProductDetail/Vishay-Dale/CRCW06033K65FKEA/?qs=m78yHlr47QBBhPoSNA6U%252BA%3D%3D
+$ENDCMP
+#
+$CMP 330R_0.1W_1%
+D Resistor 330r 0603
+F d
+$ENDCMP
+#
+$CMP 4.7KR_0.1W_1%
+D Resistor 4.7K 0603
+F d
+$ENDCMP
+#
+$CMP 4.87KR_0.1W_1%
+D Resistor 4.87K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-4.87k-1%25/resistori-smd-0603/royal-ohm/0603saf4871t5e/
+$ENDCMP
+#
+$CMP 449R_0.1W_0.1%
+D Resistor 499R-0,1W±0,1% 0603
+F https://www.tme.eu/it/details/ar0603-499r-0.1%25/resistori-di-precisione-smd-0603/viking/ar03btcx4990/
+$ENDCMP
+#
+$CMP 470R_0.1W_1%
+D Resistor 470R-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-470r-1%25/resistori-smd-0603/royal-ohm/0603saf4700t5e/
+$ENDCMP
+#
+$CMP 47R_0.3W_1%
+D Resistor 47R-47R1%  0805
+F https://www.tme.eu/it/details/hp05-47r1%25/resistori-smd-0805/royal-ohm/hp05w3f470jt5e/
+$ENDCMP
+#
+$CMP 51R_0.5W_5%
+D Resistor 51R-500mW±5% 1206
+F https://www.tme.eu/it/details/hp06-51r5%25/resistori-smd-1206/royal-ohm/hp06w2j0510t5e/
+$ENDCMP
+#
+$CMP 59KR_0.1W_1%
+D Resistor 59K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-59k-1%25/resistori-smd-0603/royal-ohm/0603saf5902t5e/
+$ENDCMP
+#
+$CMP 68KR_0.25W_1%
+D Resistor 68KΩ-250mW±1% 1206
+F https://www.tme.eu/it/details/hp06-68k1%25/resistori-smd-1206/royal-ohm/hp06w2f6802t5e/
+$ENDCMP
+#
+$CMP 7.5KR_0.1W_1%
+D Resistor 7.5K-0,1W±1% 0603
+F https://www.tme.eu/it/details/smd0603-7k5-1%25/resistori-smd-0603/royal-ohm/0603saf7501t5e/
+$ENDCMP
+#
+$CMP 820R_0.5W_1%
+D Resistor 820R-500mW±5% 1210
+F https://www.mouser.it/ProductDetail/Yageo/RC1210FR-07820RL/?qs=sGAEpiMZZMtlubZbdhIBIEF9uIRuu14JuBsGFNE2t4s%3D
+$ENDCMP
+#
+#End Doc Library
